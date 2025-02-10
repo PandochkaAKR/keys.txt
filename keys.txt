@@ -1,0 +1,9 @@
+9KJ3F-2LZ8V-MQ7ND {
+money: 100
+wood: 50
+}
+
+X7F9D-PQ3LM-Z8R2V {
+money: 200
+wood: 100
+}
