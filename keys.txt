@@ -1,7 +1,1 @@
-X7F9D-PQ3LM-Z8R2V
-money: 200
-wood: 100
-
-ABCD-EFGH-IJKL
-money: 500
-stone: 300
+X7F9D-PQ3LM-Z8R2V-IJKL
